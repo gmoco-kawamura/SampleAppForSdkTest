@@ -40,7 +40,7 @@ afterEvaluate {
                 groupId = "com.github.gmoco-kawamura"
                 artifactId = "SampleAppForSdkTest"
                 version = "0.1.2"
-//                artifact("$buildDir/outputs/aar/android-lib-kawamura0-release.aar")
+                artifact("$buildDir/outputs/aar/android-lib-kawamura0-release.aar")
             }
         }
     }
