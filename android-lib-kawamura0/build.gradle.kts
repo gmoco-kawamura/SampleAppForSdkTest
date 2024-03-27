@@ -39,7 +39,7 @@ afterEvaluate {
             create("release", MavenPublication::class.java) {
                 groupId = "com.github.gmoco-kawamura"
                 artifactId = "SampleAppForSdkTest"
-                version = "0.1.5"
+                version = "0.1.6"
                 artifact("$buildDir/outputs/aar/android-lib-kawamura0-release.aar")
             }
         }

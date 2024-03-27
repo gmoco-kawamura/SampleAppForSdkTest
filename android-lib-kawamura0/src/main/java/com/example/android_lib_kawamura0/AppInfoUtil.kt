@@ -1,4 +1,4 @@
-package com.example.android_lib_kawamura0.com.example.android_lib_kawamura0
+package com.example.android_lib_kawamura0
 
 import android.content.Context
 
